@@ -1,4 +1,4 @@
-package Rock_Paper_Scissors_Game;
+package Rock_Paper_Scissors;
 
 /*
 Enter
